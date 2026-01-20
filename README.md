@@ -447,15 +447,6 @@ El sistema utiliza una arquitectura de pipeline modular que permite:
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
-## 📞 Soporte
-
-### Canales de Ayuda
-
-- **📧 Email:** soporte@proyectoj.com
-- **💬 Discord:** [Servidor de la comunidad](https://discord.gg/proyectoj)
-- **📖 Wiki:** [Documentación completa](https://github.com/tu-usuario/Proyecto_J/wiki)
-- **🐛 Issues:** [Reportar problemas](https://github.com/tu-usuario/Proyecto_J/issues)
-
 ### FAQ
 
 **Q: ¿Puedo usar el sistema sin instalar Redis?**
